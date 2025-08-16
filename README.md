@@ -1,4 +1,4 @@
-# Olive Video Editor [![Build status](https://github.com/olive-editor/olive/workflows/CI/badge.svg?branch=master)](https://github.com/olive-editor/olive/actions?query=branch%3Amaster)
+# Olive Video Editor Redux! [![Build status](https://github.com/olive-editor/olive/workflows/CI/badge.svg?branch=master)](https://github.com/olive-editor/olive/actions?query=branch%3Amaster)
 
 Olive is a free non-linear video editor for Windows, macOS, and Linux.
 
